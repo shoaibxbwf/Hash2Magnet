@@ -1,0 +1,36 @@
+.converter-container {
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.converter-container:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+.input-field {
+    transition: all 0.3s ease;
+}
+
+.input-field:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+}
+
+.copy-button {
+    transition: all 0.2s ease;
+}
+
+.copy-button:hover {
+    transform: scale(1.05);
+}
+
+.copy-button:active {
+    transform: scale(0.95);
+}
+
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
