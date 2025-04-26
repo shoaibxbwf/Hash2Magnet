@@ -1,53 +1,63 @@
-# Hash to Magnet Converter
+# 🔗 Hash to Magnet Converter
 
-A simple web application that converts hash to magnet links and allows downloading as torrent files.
+A simple and elegant web application that converts hash strings into magnet links and allows downloading them as `.torrent` files — all in a clean, responsive interface with **no backend required**.
 
-## Features
+---
 
-- Convert hash to magnet links
-- Copy hash and magnet links with one click
-- Download as .torrent file
-- Clean and responsive design
-- No backend required
+## ✨ Features
 
-## Live Demo
+- 🔄 Convert hash to magnet links instantly  
+- 📋 One-click copy for both hash and magnet links  
+- ⬇️ Download as `.torrent` file  
+- 💻 Clean and responsive design  
+- 🚫 No backend required — works 100% on the frontend  
 
-[View Live Demo](https://shoaibxbwf.github.io/hash-magnet-converter)
+---
 
-## Installation
+## 📸 Preview
 
-1. Clone the repository:
-bash
-git clone https://github.com/shoaibxbwf/hash-magnet-converter.git
+<img src="./assets/preview.png" alt="Hash to Magnet Converter Preview" />
 
+---
 
-2. Navigate to the project directory:
-bash
-cd hash-magnet-converter
+## 🚀 Live Demo
 
+👉 [**View Live Demo**](https://shoaibxbwf.github.io/Hash2Magnet/)
 
-3. Open `index.html` in your browser or use a local server.
+---
 
-## Usage
+## 🛠️ Usage
 
-1. Enter a hash in the input field
-2. Click "Convert to Magnet Link"
-3. Copy the magnet link or download as torrent file
+1. Paste or enter a hash in the input field  
+2. Click on **Convert to Magnet Link**  
+3. Copy the magnet link or download it as a `.torrent` file
 
-## Technologies Used
+---
 
-- React 18
-- TailwindCSS
-- Font Awesome
+## 🧰 Built With
 
-## Contributing
+- ⚛️ React 18  
+- 🎨 TailwindCSS  
+- ⭐ Font Awesome  
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+---
 
-## License
+## 🤝 Contributing
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss what you'd like to modify.
 
-## Author
+---
 
-Shoaib - [GitHub Profile](https://github.com/shoaibxbwf)
+## 📄 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+---
+
+## 👨‍💻 Developed By
+
+**Mohammad Amir Shoaib**  
+💻 BCA Student | Front-End Web Developer  
+📧 Email: [astechnical112@gmail.com](mailto:astechnical112@gmail.com)  
+🌐 GitHub: [@shoaibxbwf](https://github.com/shoaibxbwf)
